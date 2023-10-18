@@ -51,6 +51,9 @@ Before running this project, ensure you have the following:
 
 4. Visualize the extracted keywords using word cloud visualization.
 
+## Dataset
+Also you can download the dataset from the files i've uploaded
+
 ## Authors
 Mehrnaz Sadeghieh, Helia Ghahraman
 
