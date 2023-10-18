@@ -52,7 +52,6 @@ Before running this project, ensure you have the following:
 4. Visualize the extracted keywords using word cloud visualization.
 
 ## Authors
-Mehrnaz Sadeghieh
-Helia Ghahraman
+Mehrnaz Sadeghieh, Helia Ghahraman
 
 Thank you for exploring our University SOP Generator project. We hope this tool assists you in generating Statements of Purpose for universities efficiently and effectively.
